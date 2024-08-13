@@ -53,6 +53,9 @@ export default function Projects() {
       <Separator />
 
       <Categories description="EIPs" />
+      <Categories description="EIPs" />
+      <Categories description="EIPs" />
+      <Categories description="EIPs" />
     </div>
   );
 }
